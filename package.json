@@ -1,0 +1,16 @@
+{
+  "name": "flowtype.js",
+  "version": "1.1.0",
+  "description": "Responsive web typography at its finest: font-size and line-height based on element width.",
+  "main": "flowtype.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplefocus/FlowType.JS.git"
+  },
+  "author": "simplefocus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplefocus/FlowType.JS/issues"
+  },
+  "homepage": "https://github.com/simplefocus/FlowType.JS#readme"
+}
